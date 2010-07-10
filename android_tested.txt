@@ -1,0 +1,5 @@
+Docs code tested in Android
+
+Works:
+network.isReachable
+notification.alert
